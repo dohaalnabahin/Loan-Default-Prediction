@@ -138,10 +138,10 @@ pip install pandas numpy scikit-learn seaborn matplotlib joblib
 
 **Doha Al-Nabahin**
 
-[![LinkedIn](https://www.linkedin.com/in/doha-samir12/)
+[![LinkedIn](linkedin.com/in/doha-samir12)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/dohaalnabahin)
 
 ---
 
-*Built as part of the Machine Learning curriculum at Axsos Academy — April 2026*
+*Loan Default Prediction using Machine Learning | April 2026*
