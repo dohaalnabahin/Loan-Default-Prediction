@@ -83,7 +83,7 @@ Workflow   : CRISP-DM
 
 ### 1️⃣ Random Forest — Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](coff.png)
 
 **Key Findings:**
 
