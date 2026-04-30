@@ -83,7 +83,7 @@ Workflow   : CRISP-DM
 
 ### 1️⃣ Random Forest — Feature Importance
 
-![Feature Importance](coff.png)
+![Feature Importance](imortant.png)
 
 **Key Findings:**
 
@@ -101,7 +101,7 @@ Workflow   : CRISP-DM
 
 ### 2️⃣ Permutation Importance
 
-![Permutation Importance](images/permutation_importance.png)
+![Permutation Importance](preumation.png)
 
 **Key Findings:**
 
@@ -118,7 +118,7 @@ Permutation importance confirms the Random Forest results — when each feature 
 
 ### 3️⃣ Logistic Regression — Coefficients
 
-![Logistic Regression Coefficients](images/lr_coefficients.png)
+![Logistic Regression Coefficients](coff.png)
 
 **Key Findings:**
 
